@@ -1,4 +1,5 @@
 void setup() {
+  delay(500);
   delay(0);
 
 }
